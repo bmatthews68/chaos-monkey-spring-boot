@@ -71,7 +71,7 @@
     <url>https://github.com/codecentric/chaos-monkey-spring-boot</url>
   </scm>
   <url>https://github.com/codecentric/chaos-monkey-spring-boot</url>
-  <version>${revision}</version>
+  <version>4.0.0-M1</version>
 
   <modules>
     <module>chaos-monkey-dependencies</module>
