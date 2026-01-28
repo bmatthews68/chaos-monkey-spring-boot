@@ -26,7 +26,7 @@
     <parent>
         <groupId>de.codecentric</groupId>
         <artifactId>chaos-monkey-dependencies</artifactId>
-        <version>4.0.0-M1</version>
+        <version>4.0.0-SNAPSHOT</version>
         <relativePath>../chaos-monkey-dependencies</relativePath>
     </parent>
 
