@@ -21,7 +21,7 @@
     <parent>
         <groupId>de.codecentric</groupId>
         <artifactId>chaos-monkey-dependencies</artifactId>
-        <version>${revision}</version>
+        <version>4.0.0-SNAPSHOT</version>
         <relativePath>../../chaos-monkey-dependencies</relativePath>
     </parent>
 
@@ -33,7 +33,7 @@
         <dependency>
             <groupId>de.codecentric</groupId>
             <artifactId>chaos-monkey-spring-boot</artifactId>
-            <version>${revision}</version>
+            <version>4.0.0-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>

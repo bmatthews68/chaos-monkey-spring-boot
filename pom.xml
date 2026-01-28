@@ -21,7 +21,7 @@
 
   <properties>
     <!-- project version -->
-    <revision>3.2.3-SNAPSHOT</revision>
+    <revision>4.0.0-SNAPSHOT</revision>
     <!-- default settings -->
     <java.version>17</java.version>
     <maven.compiler.source>${java.version}</maven.compiler.source>
@@ -71,7 +71,7 @@
     <url>https://github.com/codecentric/chaos-monkey-spring-boot</url>
   </scm>
   <url>https://github.com/codecentric/chaos-monkey-spring-boot</url>
-  <version>${revision}</version>
+  <version>4.0.0-SNAPSHOT</version>
 
   <modules>
     <module>chaos-monkey-dependencies</module>

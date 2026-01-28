@@ -1,1 +1,3 @@
 de.codecentric.spring.boot.chaos.monkey.configuration.ChaosMonkeyConfiguration
+de.codecentric.spring.boot.chaos.monkey.configuration.ChaosMonkeyRestTemplateConfiguration
+de.codecentric.spring.boot.chaos.monkey.configuration.ChaosMonkeyWebClientConfiguration
